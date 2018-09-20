@@ -51,6 +51,7 @@ m_relh = zeros(1,31);
 
 data = py.dict();
 s = struct;
+s_inner = struct();
 
 % Data can be scraped for lat=(-90:90) and for lon=(0,360) by 0.5 degrees
 
@@ -71,11 +72,12 @@ for i = (360-144):(360-143) %-53 % lon
             m_relh(k) = relh(1,k,j,i);
             
         end
-        s_inner = struct('height',m_hght,'temperature',m_temp,'wind_x',m_wind_x,...
-                   'wind_y',m_wind_y,'humidity',m_relh);
-        
-        m_key = sprintf('L%i%i',j,i);
-        s_outer = struct(m_key,s_inner);
+        s_inner(j,i).height = m_hght;
+        s_inner(j,i).temperature = m_temp;
+        s_inner(j,i).wind_x = m_wind_x;
+        s_inner(j,i).wind_y = m_wind_y;
+        s_inner(j,i).humidity = m_relh;
+        s_inner(j,i).temperature = m_temp;
         
         % collecting lists into weather data dictionary for each location
         single_point = py.dict(pyargs('height', py_hght, 'temperature',...
