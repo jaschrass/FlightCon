@@ -55,7 +55,11 @@ HOUR = '12'
 
 filename = "file" + YEAR + "_" + MONTH + "_" + DAY + "_" + HOUR
 
+<<<<<<< HEAD
 data = pickle.load(open('file2018_06_18_12.p', 'rb'))
+=======
+data = pickle.load(open(filename + '.p', 'rb'))
+>>>>>>> 2d17ac9cca5f476a8bbd4221f94fade4f5d6d4e7
 
 lat = copy.deepcopy(data['latitude'])
 lon = copy.deepcopy(data['longitude'])
