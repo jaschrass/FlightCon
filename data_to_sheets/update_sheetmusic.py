@@ -4,7 +4,7 @@ from httplib2 import Http
 from oauth2client import file, client, tools
 
 # If modifying these scopes, delete the file token.json.
-SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
+SCOPES = 'https://www.googleapis.com/auth/spreadsheets'
 
 # The ID and range of a sample spreadsheet.
 SPREADSHEET_ID = '1eCCDVIlr9TSuf_XEd07YGtiAFY22--dnr8dvLocctr8'
@@ -39,6 +39,61 @@ def main():
             if row != []:
                 # Print columns A and C, which correspond to indices 0 and 2.
                 print('%s, %s' % (row[0], row[2]))
+
+    requests = []
+    title = 'SheetMusicSplice'
+    # Change the spreadsheet's title.
+    requests.append({
+        'updateSpreadsheetProperties': {
+            'properties': {
+                'title': title
+            },
+            'fields': 'title'
+        }
+    })
+
+    # Find and replace text
+    find = 'C2'
+    replacement = '80.03504098'
+    requests.append({
+        'findReplace': {
+            'find': find,
+            'replacement': replacement,
+            'allSheets': True
+        }
+    })
+
+    # Update Cells
+    requests.append({
+        'updateCells': {
+            'range': {
+                'endRowIndex': 2,
+                'endColumnIndex': 2,
+                'startColumnIndex': 1,
+                'startRowIndex': 1,
+            },
+            'rows': [{
+                'values': [{
+                    'userEnteredValue': {
+                        'numberValue': 5
+                    }
+                }]
+            }],
+            'fields': '*'
+        }
+    })
+
+    # Add additional requests (operations) ...
+
+    body = {
+        'requests': requests
+    }
+    response = service.spreadsheets().batchUpdate(
+        spreadsheetId=SPREADSHEET_ID,
+        body=body).execute()
+    find_replace_response = response.get('replies')[1].get('findReplace')
+    print('{0} replacements made.'.format(
+        find_replace_response.get('occurrencesChanged')))
 
 
 if __name__ == '__main__':
