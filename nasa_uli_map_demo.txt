@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<iframe width="700" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col3+from+1CtJs7xru2HzHjQFMcw8nKcc3pfU_ntcVNJsh04jC&amp;viz=MAP&amp;h=false&amp;lat=39.30827024629317&amp;lng=-96.50728068577735&amp;t=1&amp;z=5&amp;l=col3&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
+
+</body>
+</html>
