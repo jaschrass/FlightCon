@@ -9,6 +9,8 @@
 // Replace with your Fusion Table's ID (from File > About this table)
 var TABLE_ID = 'YOUR TABLE ID';
 
+// Replace with the name of the sheet
+var SHEET_ID = 'YOUR SHEET ID';
 // First row that has data, as opposed to header information
 var FIRST_DATA_ROW = 2;
 
