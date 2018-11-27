@@ -1,3 +1,12 @@
+'''
+Python outputs to spreadsheet demo
+pip install gspread oauth2client
+docs for client.json:
+    https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+    Youtube vid:
+    https://www.youtube.com/watch?v=vISRn5qFrkM
+'''
+
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
