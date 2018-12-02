@@ -1,0 +1,354 @@
+1:Visibility:m (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+2:U component of wind:m s**-1 (instant):regular_ll:unknown:level 0:fcst time 0 hrs:from 201811130000
+3:V component of wind:m s**-1 (instant):regular_ll:unknown:level 0:fcst time 0 hrs:from 201811130000
+4:Ventilation Rate:m**2 s**-1 (instant):regular_ll:unknown:level 0:fcst time 0 hrs:from 201811130000
+5:Wind speed (gust):m s**-1 (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+6:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+7:Temperature:K (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+8:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+9:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+10:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+11:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 100 Pa:fcst time 0 hrs:from 201811130000
+12:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+13:Temperature:K (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+14:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+15:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+16:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+17:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 200 Pa:fcst time 0 hrs:from 201811130000
+18:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+19:Temperature:K (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+20:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+21:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+22:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+23:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 300 Pa:fcst time 0 hrs:from 201811130000
+24:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+25:Temperature:K (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+26:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+27:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+28:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+29:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 500 Pa:fcst time 0 hrs:from 201811130000
+30:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+31:Temperature:K (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+32:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+33:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+34:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+35:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 700 Pa:fcst time 0 hrs:from 201811130000
+36:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+37:Temperature:K (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+38:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+39:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+40:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+41:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+42:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 1000 Pa:fcst time 0 hrs:from 201811130000
+43:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+44:Temperature:K (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+45:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+46:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+47:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+48:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+49:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 2000 Pa:fcst time 0 hrs:from 201811130000
+50:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+51:Temperature:K (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+52:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+53:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+54:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+55:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+56:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 3000 Pa:fcst time 0 hrs:from 201811130000
+57:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+58:Temperature:K (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+59:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+60:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+61:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+62:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+63:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 5000 Pa:fcst time 0 hrs:from 201811130000
+64:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+65:Temperature:K (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+66:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+67:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+68:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+69:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+70:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 7000 Pa:fcst time 0 hrs:from 201811130000
+71:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+72:Temperature:K (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+73:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+74:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+75:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+76:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+77:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+78:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+79:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 10000 Pa:fcst time 0 hrs:from 201811130000
+80:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+81:Temperature:K (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+82:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+83:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+84:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+85:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+86:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+87:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+88:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 15000 Pa:fcst time 0 hrs:from 201811130000
+89:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+90:Temperature:K (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+91:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+92:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+93:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+94:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+95:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+96:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+97:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 20000 Pa:fcst time 0 hrs:from 201811130000
+98:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+99:Temperature:K (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+100:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+101:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+102:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+103:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+104:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+105:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+106:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 25000 Pa:fcst time 0 hrs:from 201811130000
+107:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+108:Temperature:K (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+109:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+110:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+111:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+112:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+113:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+114:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+115:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 30000 Pa:fcst time 0 hrs:from 201811130000
+116:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+117:Temperature:K (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+118:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+119:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+120:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+121:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+122:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+123:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+124:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 35000 Pa:fcst time 0 hrs:from 201811130000
+125:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+126:Temperature:K (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+127:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+128:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+129:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+130:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+131:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+132:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+133:Ozone mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 40000 Pa:fcst time 0 hrs:from 201811130000
+134:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+135:Temperature:K (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+136:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+137:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+138:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+139:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+140:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+141:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 45000 Pa:fcst time 0 hrs:from 201811130000
+142:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+143:Temperature:K (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+144:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+145:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+146:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+147:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+148:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+149:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+150:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+151:Temperature:K (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+152:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+153:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+154:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+155:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+156:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+157:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 55000 Pa:fcst time 0 hrs:from 201811130000
+158:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+159:Temperature:K (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+160:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+161:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+162:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+163:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+164:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+165:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 60000 Pa:fcst time 0 hrs:from 201811130000
+166:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+167:Temperature:K (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+168:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+169:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+170:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+171:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+172:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+173:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 65000 Pa:fcst time 0 hrs:from 201811130000
+174:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+175:Temperature:K (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+176:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+177:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+178:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+179:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+180:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+181:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 70000 Pa:fcst time 0 hrs:from 201811130000
+182:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+183:Temperature:K (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+184:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+185:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+186:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+187:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+188:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+189:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 75000 Pa:fcst time 0 hrs:from 201811130000
+190:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+191:Temperature:K (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+192:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+193:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+194:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+195:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+196:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+197:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 80000 Pa:fcst time 0 hrs:from 201811130000
+198:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+199:Temperature:K (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+200:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+201:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+202:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+203:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+204:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+205:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 85000 Pa:fcst time 0 hrs:from 201811130000
+206:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+207:Temperature:K (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+208:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+209:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+210:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+211:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+212:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+213:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 90000 Pa:fcst time 0 hrs:from 201811130000
+214:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+215:Temperature:K (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+216:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+217:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+218:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+219:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+220:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+221:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 92500 Pa:fcst time 0 hrs:from 201811130000
+222:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+223:Temperature:K (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+224:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+225:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+226:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+227:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+228:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+229:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 95000 Pa:fcst time 0 hrs:from 201811130000
+230:Haines Index:Numeric (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+231:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+232:Temperature:K (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+233:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+234:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+235:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+236:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+237:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+238:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 97500 Pa:fcst time 0 hrs:from 201811130000
+239:Temperature:K (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+240:Relative humidity:% (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+241:Vertical velocity:Pa s**-1 (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+242:U component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+243:V component of wind:m s**-1 (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+244:Absolute vorticity:s**-1 (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+245:Cloud mixing ratio:kg kg**-1 (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+246:MSLP (Eta model reduction):Pa (instant):regular_ll:meanSea:level 0:fcst time 0 hrs:from 201811130000
+247:Geopotential Height:gpm (instant):regular_ll:isobaricInhPa:level 100000 Pa:fcst time 0 hrs:from 201811130000
+248:Surface pressure:Pa (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+249:Orography:m (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+250:Temperature:K (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+251:Soil Temperature:K (instant):regular_ll:depthBelowLandLayer:levels 0.0-0.1 m:fcst time 0 hrs:from 201811130000
+252:Volumetric soil moisture content:Proportion (instant):regular_ll:depthBelowLandLayer:levels 0.0-0.1 m:fcst time 0 hrs:from 201811130000
+253:Soil Temperature:K (instant):regular_ll:depthBelowLandLayer:levels 0.1-0.4 m:fcst time 0 hrs:from 201811130000
+254:Volumetric soil moisture content:Proportion (instant):regular_ll:depthBelowLandLayer:levels 0.1-0.4 m:fcst time 0 hrs:from 201811130000
+255:Soil Temperature:K (instant):regular_ll:depthBelowLandLayer:levels 0.4-1.0 m:fcst time 0 hrs:from 201811130000
+256:Volumetric soil moisture content:Proportion (instant):regular_ll:depthBelowLandLayer:levels 0.4-1.0 m:fcst time 0 hrs:from 201811130000
+257:Soil Temperature:K (instant):regular_ll:depthBelowLandLayer:levels 1.0-2.0 m:fcst time 0 hrs:from 201811130000
+258:Volumetric soil moisture content:Proportion (instant):regular_ll:depthBelowLandLayer:levels 1.0-2.0 m:fcst time 0 hrs:from 201811130000
+259:Water equivalent of accumulated snow depth:kg m**-2 (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+260:Snow depth:m (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+261:2 metre temperature:K (instant):regular_ll:heightAboveGround:level 2 m:fcst time 0 hrs:from 201811130000
+262:Specific humidity:kg kg**-1 (instant):regular_ll:heightAboveGround:level 2 m:fcst time 0 hrs:from 201811130000
+263:2 metre dewpoint temperature:K (instant):regular_ll:heightAboveGround:level 2 m:fcst time 0 hrs:from 201811130000
+264:2 metre relative humidity:% (instant):regular_ll:heightAboveGround:level 2 m:fcst time 0 hrs:from 201811130000
+265:Apparent temperature:K (instant):regular_ll:heightAboveGround:level 2 m:fcst time 0 hrs:from 201811130000
+266:10 metre U wind component:m s**-1 (instant):regular_ll:heightAboveGround:level 10 m:fcst time 0 hrs:from 201811130000
+267:10 metre V wind component:m s**-1 (instant):regular_ll:heightAboveGround:level 10 m:fcst time 0 hrs:from 201811130000
+268:Percent frozen precipitation:% (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+269:Wilting Point:Fraction (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+270:Field Capacity:Fraction (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+271:Sunshine Duration:s (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+272:Surface lifted index:K (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+273:Convective available potential energy:J kg**-1 (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+274:Convective inhibition:J kg**-1 (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+275:Precipitable water:kg m**-2 (instant):regular_ll:unknown:level 0 considered as a single layer:fcst time 0 hrs:from 201811130000
+276:Cloud water:kg m**-2 (instant):regular_ll:unknown:level 0 considered as a single layer:fcst time 0 hrs:from 201811130000
+277:Relative humidity:% (instant):regular_ll:unknown:level 0 considered as a single layer:fcst time 0 hrs:from 201811130000
+278:Total ozone:DU (instant):regular_ll:unknown:level 0 considered as a single layer:fcst time 0 hrs:from 201811130000
+279:Storm relative helicity:J kg**-1 (instant):regular_ll:heightAboveGroundLayer:levels 3000-0 m:fcst time 0 hrs:from 201811130000
+280:U-component storm motion:m s**-1 (instant):regular_ll:heightAboveGroundLayer:levels 6000-0 m:fcst time 0 hrs:from 201811130000
+281:V-component storm motion:m s**-1 (instant):regular_ll:heightAboveGroundLayer:levels 6000-0 m:fcst time 0 hrs:from 201811130000
+282:Pressure:Pa (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+283:ICAO Standard Atmosphere reference height:m (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+284:Geopotential Height:gpm (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+285:Temperature:K (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+286:U component of wind:m s**-1 (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+287:V component of wind:m s**-1 (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+288:Vertical speed shear:s**-1 (instant):regular_ll:tropopause:level 0:fcst time 0 hrs:from 201811130000
+289:Pressure:Pa (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+290:ICAO Standard Atmosphere reference height:m (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+291:Geopotential Height:gpm (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+292:U component of wind:m s**-1 (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+293:V component of wind:m s**-1 (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+294:Temperature:K (instant):regular_ll:maxWind:level 0:fcst time 0 hrs:from 201811130000
+295:Temperature:K (instant):regular_ll:heightAboveGround:level 80 m:fcst time 0 hrs:from 201811130000
+296:Specific humidity:kg kg**-1 (instant):regular_ll:heightAboveGround:level 80 m:fcst time 0 hrs:from 201811130000
+297:Pressure:Pa (instant):regular_ll:heightAboveGround:level 80 m:fcst time 0 hrs:from 201811130000
+298:U component of wind:m s**-1 (instant):regular_ll:heightAboveGround:level 80 m:fcst time 0 hrs:from 201811130000
+299:V component of wind:m s**-1 (instant):regular_ll:heightAboveGround:level 80 m:fcst time 0 hrs:from 201811130000
+300:Temperature:K (instant):regular_ll:heightAboveGround:level 100 m:fcst time 0 hrs:from 201811130000
+301:U component of wind:m s**-1 (instant):regular_ll:heightAboveGround:level 100 m:fcst time 0 hrs:from 201811130000
+302:V component of wind:m s**-1 (instant):regular_ll:heightAboveGround:level 100 m:fcst time 0 hrs:from 201811130000
+303:Temperature:K (instant):regular_ll:heightAboveSea:level 1829 m:fcst time 0 hrs:from 201811130000
+304:U component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 1829 m:fcst time 0 hrs:from 201811130000
+305:V component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 1829 m:fcst time 0 hrs:from 201811130000
+306:Temperature:K (instant):regular_ll:heightAboveSea:level 2743 m:fcst time 0 hrs:from 201811130000
+307:U component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 2743 m:fcst time 0 hrs:from 201811130000
+308:V component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 2743 m:fcst time 0 hrs:from 201811130000
+309:Temperature:K (instant):regular_ll:heightAboveSea:level 3658 m:fcst time 0 hrs:from 201811130000
+310:U component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 3658 m:fcst time 0 hrs:from 201811130000
+311:V component of wind:m s**-1 (instant):regular_ll:heightAboveSea:level 3658 m:fcst time 0 hrs:from 201811130000
+312:Geopotential Height:gpm (instant):regular_ll:isothermZero:level 0:fcst time 0 hrs:from 201811130000
+313:Relative humidity:% (instant):regular_ll:isothermZero:level 0:fcst time 0 hrs:from 201811130000
+314:Geopotential Height:gpm (instant):regular_ll:unknown:level 0:fcst time 0 hrs:from 201811130000
+315:Relative humidity:% (instant):regular_ll:unknown:level 0:fcst time 0 hrs:from 201811130000
+316:Temperature:K (instant):regular_ll:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 0 hrs:from 201811130000
+317:Relative humidity:% (instant):regular_ll:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 0 hrs:from 201811130000
+318:Specific humidity:kg kg**-1 (instant):regular_ll:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 0 hrs:from 201811130000
+319:U component of wind:m s**-1 (instant):regular_ll:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 0 hrs:from 201811130000
+320:V component of wind:m s**-1 (instant):regular_ll:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 0 hrs:from 201811130000
+321:Best (4-layer) lifted index:K (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+322:Convective available potential energy:J kg**-1 (instant):regular_ll:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 0 hrs:from 201811130000
+323:Convective inhibition:J kg**-1 (instant):regular_ll:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 0 hrs:from 201811130000
+324:Planetary boundary layer height:m (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+325:Relative humidity:% (instant):regular_ll:sigmaLayer:levels 0.33-1.0 sigma value:fcst time 0 hrs:from 201811130000
+326:Relative humidity:% (instant):regular_ll:sigmaLayer:levels 0.44-1.0 sigma value:fcst time 0 hrs:from 201811130000
+327:Relative humidity:% (instant):regular_ll:sigmaLayer:levels 0.72-0.94 sigma value:fcst time 0 hrs:from 201811130000
+328:Relative humidity:% (instant):regular_ll:sigmaLayer:levels 0.44-0.72 sigma value:fcst time 0 hrs:from 201811130000
+329:Temperature:K (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+330:Potential temperature:K (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+331:Relative humidity:% (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+332:U component of wind:m s**-1 (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+333:V component of wind:m s**-1 (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+334:Vertical velocity:Pa s**-1 (instant):regular_ll:sigma:level 0.995 sigma value:fcst time 0 hrs:from 201811130000
+335:Convective available potential energy:J kg**-1 (instant):regular_ll:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 0 hrs:from 201811130000
+336:Convective inhibition:J kg**-1 (instant):regular_ll:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 0 hrs:from 201811130000
+337:Pressure of level from which parcel was lifted:Pa (instant):regular_ll:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 0 hrs:from 201811130000
+338:Land-sea mask:(0 - 1) (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+339:Sea ice area fraction:(0 - 1) (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
+340:U component of wind:m s**-1 (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+341:V component of wind:m s**-1 (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+342:Temperature:K (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+343:Geopotential Height:gpm (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+344:Pressure:Pa (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+345:Vertical speed shear:s**-1 (instant):regular_ll:potentialVorticity:level 2e-06 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+346:U component of wind:m s**-1 (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+347:V component of wind:m s**-1 (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+348:Temperature:K (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+349:Geopotential Height:gpm (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+350:Pressure:Pa (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+351:Vertical speed shear:s**-1 (instant):regular_ll:potentialVorticity:level 2.147485648 K m2 kg-1 s-1:fcst time 0 hrs:from 201811130000
+352:Pressure reduced to MSL:Pa (instant):regular_ll:meanSea:level 0:fcst time 0 hrs:from 201811130000
+353:5-wave geopotential height:gpm (instant):regular_ll:isobaricInhPa:level 50000 Pa:fcst time 0 hrs:from 201811130000
+354:Land-sea coverage (nearest neighbor) [land=1,sea=0]:~ (instant):regular_ll:surface:level 0:fcst time 0 hrs:from 201811130000
