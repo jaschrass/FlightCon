@@ -1,4 +1,6 @@
 # FlightCon
+Working repository for development of weather and loudness visualization tools to be used on https://supersonic.tamu.edu/student-involvement/.
+
 Making pretty pictures online with weather data.
 
 Note:
